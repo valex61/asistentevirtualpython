@@ -36,8 +36,8 @@ def listen():
 
 
 
-client_id = '1354ffeecbb54d1fb52346969edb6eed' 
-client_secret = '8c1da5ab63f648cba12379e0840e95da'
+client_id = 'se obtiene en spotify for developer' 
+client_secret = se obtiene en spotify for developer'
 flag = 0
 
 
